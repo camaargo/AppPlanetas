@@ -1,4 +1,4 @@
-# Planeta - Gerenciamento de Planetas
+# Gerenciamento de Planetas
 
 ## Sobre o Aplicativo
 
